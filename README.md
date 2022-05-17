@@ -1,0 +1,2 @@
+# AllOrNothing
+Mindent vagy Semmit
